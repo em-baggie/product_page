@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/em-baggie/product_page/main/Phage/Icon.webp" alt="phage icon" height="200">
+    <img src="https://raw.githubusercontent.com/em-baggie/product_page/main/PhageIcon.webp" alt="phage icon" height="200">
     <br/>
     Phage Therapy Page
 </h1>
